@@ -48,7 +48,7 @@ The website features a clean and modern layout, smooth navigation, attractive pr
 
 ## 🚀 Live Demo
 
-🔗 https://meghanasoma02.github.io/Codesoft-Internship/Landing_Page/
+🔗 https://meghanasoma02.github.io/codsoft_tasks/Landing_Page/
 
 ---
 
