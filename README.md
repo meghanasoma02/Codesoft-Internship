@@ -77,13 +77,13 @@ A simple and responsive calculator capable of performing basic arithmetic operat
 # 🚀 Live Demos
 
 ### 💼 Portfolio
-🔗 https://meghanasoma02.github.io/Codesoft-Internship/Portfolio/
+🔗 https://meghanasoma02.github.io/codsoft_tasks/Portfolio/
 
 ### 🍽️ Landing Page
-🔗 https://meghanasoma02.github.io/Codesoft-Internship/Landing_Page/
+🔗 https://meghanasoma02.github.io/codsoft_tasks/Landing_Page/
 
 ### 🧮 Calculator
-🔗 https://meghanasoma02.github.io/Codesoft-Internship/Calculator/
+🔗 https://meghanasoma02.github.io/codsoft_tasks/Calculator/
 
 ---
 
