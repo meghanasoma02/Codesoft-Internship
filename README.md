@@ -80,7 +80,7 @@ A simple and responsive calculator capable of performing basic arithmetic operat
 🔗 https://meghanasoma02.github.io/Codesoft-Internship/Portfolio/
 
 ### 🍽️ Landing Page
-🔗 https://meghanasoma02.github.io/Codesoft-Internship/Landing Page/
+🔗 https://meghanasoma02.github.io/Codesoft-Internship/Landing_Page/
 
 ### 🧮 Calculator
 🔗 https://meghanasoma02.github.io/Codesoft-Internship/Calculator/

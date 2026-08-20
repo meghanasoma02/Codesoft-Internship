@@ -49,7 +49,7 @@ The website features a clean and modern layout, smooth navigation, attractive pr
 ## 🚀 Live Demo
 
 🔗 https://meghanasoma02.github.io/Codesoft-Internship
-/Landing Page/
+/Landing_Page/
 
 ---
 
