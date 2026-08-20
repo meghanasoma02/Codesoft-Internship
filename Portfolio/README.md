@@ -35,7 +35,7 @@ A modern and responsive **Personal Portfolio Website** built using **HTML** and 
 
 ## 🚀 Live Demo
 
-🔗 https://meghanasoma02.github.io/Codesoft-Internship/Portfolio/
+🔗 https://meghanasoma02.github.io/codsoft_tasksPortfolio/
 
 ---
 
